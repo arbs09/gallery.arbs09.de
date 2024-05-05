@@ -1,4 +1,4 @@
-module https://github.com/arbs09/gallery.arbs09.de
+module github.com/arbs09/gallery.arbs09.de
 
 go 1.19
 
