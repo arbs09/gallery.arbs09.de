@@ -1,6 +1,6 @@
 [build]
     publish = "public"
-    command = "hugo --gc --minify -b https:gallery.arbs09.de"
+    command = "hugo --gc --minify -b https://gallery.arbs09.de"
 
     [build.environment]
         HUGO_VERSION = "0.104.2"
