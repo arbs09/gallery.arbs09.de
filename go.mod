@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module https://github.com/arbs09/gallery.arbs09.de
 
 go 1.19
 
