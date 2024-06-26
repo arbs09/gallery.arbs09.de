@@ -1,7 +1,7 @@
 baseURL      = "https://gallery.arbs09.de/"
 title        = "Gallery | arbs09.de"
 disableKinds = ["section", "taxonomy", "term"]
-
+timeout = "120"
 [params]
     # Set to enable Plausible Analytics.
     plausible_domain = ""
