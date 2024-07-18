@@ -4,7 +4,4 @@
     {{ $css = $css | minify | fingerprint }}
 {{ end }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}"></link>
-{{ with site.Params.plausible_domain }}
 <script defer data-domain="arbs09.de" src="https://analytics.serverobot.de/js/script.js"></script>
-{{ end }}
-
